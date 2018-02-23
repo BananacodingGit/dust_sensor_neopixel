@@ -4,7 +4,7 @@ WebSite: bananacoding.ac
 CEO: 최은희
 작성자: 김정준, 김용진
 e-mail: youngjin.kim@bananacoding.ac
-gitHub: https://github.com/kyjna0312/dust_snesor_neopixel
+gitHub: https://github.com/BananacodingGit
 */
 
 #include <Adafruit_NeoPixel.h> //네오픽셀 라이브러리
